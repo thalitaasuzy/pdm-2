@@ -1,4 +1,4 @@
-<h2>Atividade Proposta</h2>
+<h2>Avaliação 07</h2>
 
 1) Executar o codelab em https://docs.flutter.dev/get-started/codelab
 2) Filmar a execução do Programa.
