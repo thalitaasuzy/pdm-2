@@ -1,4 +1,6 @@
-<h2>Avaliação-09 Gerenciamento de Estado (Carrinho)</h2>
+<h2>Avaliação 09</h2>
+
+Gerenciamento de Estado (Carrinho)
 
 Executar o exemplo em https://docs.flutter.dev/data-and-backend/state-mgmt/simple.
 
