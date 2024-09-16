@@ -1,4 +1,4 @@
-<h2>Atividade Proposta</h2>
+<h2>Avaliação 08</h2>
 
 Fazer em Dupla a aplicação em Flutter que exemplifica o uso de Widgets para construir um Layout.
 Implementar a aplicação apresentada em https://docs.flutter.dev/ui/layout/tutorial?authuser=0.
